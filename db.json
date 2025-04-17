@@ -49,6 +49,7 @@
                 "Graphic Design"
             ],
             "location": "Chicago"
+<<<<<<< HEAD
         }
 	{
             "name": "Cody Lawosn",
@@ -68,5 +69,25 @@
             "location": "Kentucky"
         }
 
+=======
+	},
+	{
+            "name": "Cody Lawson",
+            "bio": "Creative designer with a knack for building interactive experiences.",
+            "photo": "https://example.com/photos/charlie.jpg",
+            "skills": [
+                "Game design",
+                "Website designer",
+                "Math",
+                "Sketch"
+            ],
+            "interests": [
+                "Data",
+                "Game design",
+                "Graphic Design"
+            ],
+            "location": "Kentucky"
+	}
+>>>>>>> 1d0999983282ef9e92cc95da3c304f379349cd72
     ]
 }
