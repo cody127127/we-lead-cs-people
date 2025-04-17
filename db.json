@@ -50,5 +50,23 @@
             ],
             "location": "Chicago"
         }
+	{
+            "name": "Cody Lawosn",
+            "bio": "Computer science.",
+            "photo": "https://example.com/photos/charlie.jpg",
+            "skills": [
+                "Programming",
+                "Game design",
+                "Website design",
+                "Math"
+            ],
+            "interests": [
+                "Data",
+                "Math",
+                "Game design"
+            ],
+            "location": "Kentucky"
+        }
+
     ]
 }
