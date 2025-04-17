@@ -49,6 +49,23 @@
                 "Graphic Design"
             ],
             "location": "Chicago"
-        }
+	},
+	{
+            "name": "Cody Lawson",
+            "bio": "Creative designer with a knack for building interactive experiences.",
+            "photo": "https://example.com/photos/charlie.jpg",
+            "skills": [
+                "Game design",
+                "Website designer",
+                "Math",
+                "Sketch"
+            ],
+            "interests": [
+                "Data",
+                "Game design",
+                "Graphic Design"
+            ],
+            "location": "Kentucky"
+	}
     ]
 }
